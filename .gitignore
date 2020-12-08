@@ -1,0 +1,17 @@
+# See https://www.dartlang.org/guides/libraries/private-files
+
+# Files and directories created by pub
+.dart_tool/
+code/
+code.zip
+.zip
+
+android/app/google-services\.json
+
+ios/Runner/GoogleService-Info\.plist
+
+android/app/key\.jks
+
+android/app/proguard-rules\.pro
+
+android/key\.properties
