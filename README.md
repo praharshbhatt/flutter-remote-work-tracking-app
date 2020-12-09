@@ -41,7 +41,9 @@ With this pack, you will get a suite of 2 Apps:
 <h1 align="center">Demo</h1>
 
 Try checkedin_employee APK
+</br>
 <a href = "https://github.com/praharshbhatt/flutter-remote-work-tracking-app/raw/master/checkedin_employee.apk" ><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></a>
 
 Try checkedin_employer APK
+</br>
 <a href = "https://github.com/praharshbhatt/flutter-remote-work-tracking-app/raw/master/checkedin_employer.apk" ><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></a>
